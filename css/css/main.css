@@ -1,0 +1,180 @@
+/*
+Blond-#fbf2c0
+Taupe-#48392a
+Bistre-#4328c
+Backley-#4d8ea5
+MSU Green-#1a3f3e
+*/
+@font-face {
+    font-family: 'noto_serifbold';
+    src: url('../fonts/notoserif-bold-webfont.woff2') format('woff2'),
+         url('../fonts/notoserif-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'noto_serifbold_italic';
+    src: url('../fonts/notoserif-bolditalic-webfont.woff2') format('woff2'),
+         url('../fonts/notoserif-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'noto_serifitalic';
+    src: url('../fonts/notoserif-italic-webfont.woff2') format('woff2'),
+         url('../fonts/notoserif-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'noto_serifregular';
+    src: url('../fonts/notoserif-regular-webfont.woff2') format('woff2'),
+         url('../fonts/notoserif-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'droid_sansregular';
+    src: url('../fonts/droidsans-webfont.woff2') format('woff2'),
+         url('../fonts/droidsans-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'droid_sansbold';
+    src: url('../fonts/droidsans-bold-webfont.woff2') format('woff2'),
+         url('../fonts/droidsans-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+img {
+    width: 60%;
+
+}
+
+.container {
+    background-color: #48392A;
+    padding: 5px 15px 5px 15px;
+}
+
+
+.sectionone p {
+    font-family: 'noto_serifregular';
+    color: #4d8ea5;
+}
+
+
+ .text  h3 {
+    font-family: 'noto_serifbold';
+
+}
+
+
+
+.sectiontwo p {
+     font-family: 'droid_sansregular';
+     color: #4d8ea5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
